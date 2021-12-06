@@ -1,2 +1,2 @@
-# RepositoryTemplate
+# InfoSorter
 A university assignment created to learn about LLL.
