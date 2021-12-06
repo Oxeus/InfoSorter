@@ -1,2 +1,2 @@
 # InfoSorter
-A university assignment created to learn about LLL.
+A university assignment created to learn about Hash Tables.
