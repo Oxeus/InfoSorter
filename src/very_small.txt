@@ -1,0 +1,76 @@
+/[^\x00-\x7F]
+Thoughtworks|2|Dzuunmod|Monthly|https://about.me/pede/posuere/nonummy/integer.xml|vitae nisl aenean lectus pellentesque eget nunc donec|pede posuere nonummy integer non velit donec|5
+Dynazzy|2|Sandwīp|Daily|http://arizona.edu/convallis/tortor/risus/dapibus/augue/vel.html|euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh|sapien placerat ante nulla justo aliquam|2
+Gigazoom|2|Juai|Often|https://about.me/morbi/quis/tortor.json|maecenas leo odio condimentum id luctus nec molestie sed justo|nulla ac enim in tempor|2
+Kimia|2|Feira de Santana|Yearly|http://surveymonkey.com/dapibus/duis/at/velit/eu/est/congue.xml|nisl nunc rhoncus dui vel sem sed sagittis|purus phasellus in felis donec semper|1
+Fliptune|2|København|Monthly|https://fema.gov/vivamus/in.js|lacus morbi quis tortor id nulla|dis parturient montes nascetur ridiculus mus|5
+Brainbox|2|Kagoro|Never|https://smh.com.au/morbi.html|hendrerit at vulputate vitae nisl aenean lectus|pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin|5
+Zoonoodle|2|Suicheng|Daily|http://nyu.edu/molestie/sed.aspx|eu mi nulla ac enim in tempor turpis nec euismod|pulvinar sed nisl nunc rhoncus dui|4
+Jabberstorm|2|Großklein|Yearly|https://fc2.com/placerat/praesent/blandit/nam/nulla/integer/pede.png|aliquam augue quam sollicitudin vitae consectetuer eget rutrum|habitasse platea dictumst aliquam augue quam sollicitudin|5
+Yakijo|2|Jianzhatan|Weekly|http://theatlantic.com/sed/accumsan/felis/ut/at/dolor/quis.js|nulla facilisi cras non velit nec nisi vulputate nonummy|convallis duis consequat dui nec nisi volutpat eleifend donec ut|1
+Teklist|2|Fuxi|Weekly|https://dion.ne.jp/morbi.jpg|potenti nullam porttitor lacus at turpis donec posuere metus|congue eget semper rutrum nulla nunc purus phasellus|2
+Eimbee|2|Šoštanj|Daily|https://redcross.org/augue/vel.xml|elementum pellentesque quisque porta volutpat|tempus semper est quam pharetra magna|5
+Roodel|2|Guernica|Weekly|http://mashable.com/sodales/sed.json|nisl ut volutpat sapien arcu sed|ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris|5
+ogidoo|2|Chernelytsya|Weekly|https://businessinsider.com/eu/tincidunt/in/leo/maecenas/pulvinar/lobortis.html|etiam justo etiam pretium iaculis justo in hac habitasse platea|ante ipsum primis in faucibus orci|5
+Fivebridge|2|Kastsyukovichy|Daily|http://google.de/ut/nulla/sed/accumsan/felis.html|justo nec condimentum neque sapien placerat ante nulla justo aliquam|in hac habitasse platea dictumst aliquam augue|1
+Livepath|2|Rontu|Yearly|https://163.com/non/velit/nec/nisi/vulputate.json|vitae mattis nibh ligula nec sem|at lorem integer tincidunt ante vel ipsum|4
+Kwinu|2|Groningen|Weekly|http://photobucket.com/blandit/nam.js|proin at turpis a pede posuere nonummy integer non velit|orci pede venenatis non sodales sed tincidunt eu felis|5
+Devpoint|2|Zaragoza|Often|http://goo.ne.jp/eu.aspx|habitasse platea dictumst maecenas ut massa quis|lorem integer tincidunt ante vel ipsum praesent blandit|2
+Bubbletube|2|Cachipay|Often|https://bandcamp.com/sit/amet/sem/fusce/consequat.png|tincidunt eget tempus vel pede morbi porttitor|imperdiet nullam orci pede venenatis non sodales sed tincidunt eu|5
+Yambee|2|Grenoble|Often|https://un.org/vulputate.jsp|semper rutrum nulla nunc purus phasellus in|ultricies eu nibh quisque id|1
+Shufflester|2|Jibu Hulangtu|Daily|http://jimdo.com/ipsum/primis/in/faucibus/orci.aspx|iaculis congue vivamus metus arcu adipiscing molestie hendrerit at|ut blandit non interdum in ante vestibulum|1
+Npath|2|Ranisoba|Often|https://ovh.net/eu/orci/mauris.png|vestibulum eget vulputate ut ultrices vel augue vestibulum ante|sit amet sem fusce consequat nulla nisl|5
+Wikido|2|Nanhe|Yearly|http://cbsnews.com/tincidunt/in/leo/maecenas.jsp|a feugiat et eros vestibulum|odio cras mi pede malesuada in imperdiet et commodo|4
+Topicshots|2|Siem Reap|Weekly|http://si.edu/adipiscing/molestie/hendrerit/at/vulputate.html|libero nam dui proin leo odio porttitor id consequat|cum sociis natoque penatibus et magnis dis parturient montes nascetur|4
+Wikivu|2|Murindó|Daily|https://lulu.com/suspendisse/potenti/cras/in/purus/eu.aspx|amet justo morbi ut odio cras mi pede malesuada|eu nibh quisque id justo sit amet sapien dignissim vestibulum|3
+Oodoo|2|Khoa|Once|https://amazon.co.jp/orci/luctus/et.aspx|dapibus nulla suscipit ligula in|sit amet consectetuer adipiscing elit proin risus|3
+Brightdog|2|Xincheng|Seldom|https://godaddy.com/proin/leo/odio/porttitor/id/consequat/in.xml|dis parturient montes nascetur ridiculus|arcu sed augue aliquam erat volutpat in congue etiam justo|5
+Flipstorm|2|Skore|Daily|https://businessweek.com/integer/ac/leo.xml|venenatis lacinia aenean sit amet justo morbi|nulla ultrices aliquet maecenas leo odio condimentum id luctus nec|5
+Buzzster|2|Dodoma|Seldom|https://csmonitor.com/sollicitudin/ut/suscipit/a/feugiat/et/eros.aspx|in congue etiam justo etiam pretium iaculis justo in hac|in hac habitasse platea dictumst maecenas|2
+Photospace|2|Busuanga|Yearly|http://netscape.com/magnis.js|consectetuer adipiscing elit proin interdum mauris non ligula|eu magna vulputate luctus cum sociis|5
+Jatri|2|Dampol|Never|http://va.gov/in/quis/justo/maecenas/rhoncus.jsp|potenti nullam porttitor lacus at|ac neque duis bibendum morbi non quam|2
+Wikido|2|Itaí|Yearly|https://businesswire.com/ut/erat/curabitur/gravida/nisi/at/nibh.js|vivamus metus arcu adipiscing molestie hendrerit at|orci eget orci vehicula condimentum curabitur in libero ut|5
+Buzzster|2|Ekimchan|Weekly|http://google.nl/nisl/nunc/rhoncus/dui/vel/sem/sed.html|integer pede justo lacinia eget|vel sem sed sagittis nam congue risus semper porta|3
+Feedspan|2|Skövde|Seldom|https://symantec.com/tortor/id/nulla/ultrices.jpg|nunc viverra dapibus nulla suscipit ligula in|urna pretium nisl ut volutpat sapien arcu|5
+Brainsphere|2|Grand Bois|Seldom|http://issuu.com/quam/pharetra/magna/ac/consequat/metus.jsp|ultrices posuere cubilia curae mauris viverra diam vitae quam|volutpat erat quisque erat eros viverra|2
+Photospace|2|Alastaro|Daily|http://geocities.jp/vestibulum/ante/ipsum/primis.js|neque libero convallis eget eleifend luctus ultricies eu|sit amet diam in magna bibendum imperdiet nullam orci pede|5
+Vipe|2|Norrahammar|Never|http://cloudflare.com/diam/erat.jpg|pulvinar lobortis est phasellus sit|consequat in consequat ut nulla|2
+Yamia|2|Krzyżanowice|Yearly|https://senate.gov/in/felis/eu/sapien.html|porta volutpat erat quisque erat eros|vestibulum ante ipsum primis in faucibus orci luctus et ultrices|2
+Topiclounge|2|Waihi|Yearly|https://nationalgeographic.com/in/quam/fringilla/rhoncus/mauris/enim/leo.png|non velit nec nisi vulputate nonummy|scelerisque quam turpis adipiscing lorem|3
+Topiclounge|2|Zhangye|Seldom|https://google.ca/ac/neque/duis/bibendum/morbi/non.aspx|volutpat sapien arcu sed augue aliquam erat volutpat in congue|faucibus orci luctus et ultrices posuere cubilia curae|5
+Tanoodle|2|Akriní|Often|http://cpanel.net/in/hac.html|porta volutpat quam pede lobortis|natoque penatibus et magnis dis parturient montes nascetur ridiculus|5
+Ntags|2|Naili|Never|https://weather.com/magna/vestibulum/aliquet/ultrices/erat.xml|nulla justo aliquam quis turpis eget|nunc rhoncus dui vel sem|5
+Oozz|2|Shigu|Once|http://businessinsider.com/eget/congue/eget/semper.html|bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt|augue aliquam erat volutpat in|4
+Eare|2|Guilhabreu|Never|https://cocolog-nifty.com/iaculis/justo/in/hac/habitasse/platea.xml|convallis tortor risus dapibus augue vel accumsan|ac nibh fusce lacus purus aliquet|4
+ogidoo|2|Hengyang|Never|https://hubpages.com/faucibus/accumsan/odio/curabitur.aspx|elementum ligula vehicula consequat morbi|in faucibus orci luctus et ultrices posuere cubilia curae mauris|4
+Flipstorm|2|Dūst Moḩammad Khān|Monthly|https://marketwatch.com/ullamcorper/augue/a/suscipit/nulla/elit.js|proin at turpis a pede posuere|libero quis orci nullam molestie nibh in lectus pellentesque|2
+Teklist|2|Kista|Seldom|https://godaddy.com/orci/vehicula/condimentum/curabitur/in/libero/ut.js|eleifend pede libero quis orci nullam molestie nibh|ligula in lacus curabitur at ipsum ac|2
+entidel|2|Bosanski Šamac|Seldom|http://blog.com/sed/magna.aspx|vel enim sit amet nunc viverra dapibus nulla suscipit|iaculis justo in hac habitasse|5
+Jatri|2|Vaulx-en-Velin|Weekly|https://jalbum.net/venenatis/non/sodales/sed/tincidunt/eu.html|turpis elementum ligula vehicula consequat morbi|consequat morbi a ipsum integer a nibh in|3
+Rhynoodle|2|Ngudu|Seldom|http://un.org/congue/vivamus/metus/arcu/adipiscing/molestie/hendrerit.xml|lorem quisque ut erat curabitur gravida nisi at nibh in|posuere felis sed lacus morbi sem mauris|2
+Gigabox|2|Maqia|Once|http://newyorker.com/euismod/scelerisque/quam/turpis/adipiscing.html|lacinia nisi venenatis tristique fusce congue diam id ornare|ligula in lacus curabitur at ipsum ac tellus semper|3
+Flashpoint|2|Mangxing|Once|https://weather.com/ut/rhoncus/aliquet/pulvinar/sed/nisl.json|morbi odio odio elementum eu interdum eu tincidunt|ultrices libero non mattis pulvinar nulla|5
+Babbleblab|2|Nikulino|Daily|https://mail.ru/vulputate/justo/in/blandit/ultrices.json|porta volutpat quam pede lobortis ligula sit|purus eu magna vulputate luctus cum sociis natoque penatibus et|2
+Aimbu|2|Aketi|Weekly|http://dailymotion.com/est/risus/auctor/sed.png|erat eros viverra eget congue eget|ut ultrices vel augue vestibulum ante ipsum primis|4
+Kwimbee|2|Peimei|Often|https://independent.co.uk/lorem/integer/tincidunt/ante.png|at nunc commodo placerat praesent blandit|elit sodales scelerisque mauris sit amet eros|1
+Browsetype|2|Ts’khinvali|Weekly|https://gizmodo.com/libero/convallis/eget/eleifend.jpg|ullamcorper purus sit amet nulla quisque arcu|rhoncus aliquet pulvinar sed nisl nunc rhoncus dui|5
+Yacero|2|Budta|Once|http://berkeley.edu/sed/accumsan/felis.aspx|nulla pede ullamcorper augue a suscipit nulla elit|odio porttitor id consequat in consequat ut|2
+Flipbug|2|Calvão|Often|http://artisteer.com/rhoncus/aliquam.xml|tristique est et tempus semper est|tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum|5
+Youspan|2|Moñitos|Weekly|http://youku.com/lorem/ipsum/dolor.xml|vitae consectetuer eget rutrum at|lorem integer tincidunt ante vel|2
+Skipstorm|2|Masinloc|Weekly|http://globo.com/mus/vivamus/vestibulum/sagittis/sapien/cum/sociis.jpg|neque vestibulum eget vulputate ut|morbi odio odio elementum eu interdum eu tincidunt|3
+Feedbug|2|Sanchahe|Once|http://mysql.com/nibh/fusce/lacus/purus/aliquet.js|diam erat fermentum justo nec condimentum neque|vivamus tortor duis mattis egestas metus aenean fermentum|5
+Topicshots|2|Pengilon|Seldom|http://theatlantic.com/nec/nisi/vulputate/nonummy/maecenas/tincidunt/lacus.xml|rhoncus mauris enim leo rhoncus sed vestibulum|lectus pellentesque at nulla suspendisse potenti cras|2
+Zoomcast|2|Solec-Zdrój|Weekly|https://bandcamp.com/libero/non/mattis/pulvinar/nulla/pede/ullamcorper.aspx|elit proin risus praesent lectus vestibulum quam sapien varius|sagittis sapien cum sociis natoque penatibus et magnis|4
+Dynazzy|2|Horodnya|Daily|http://php.net/potenti/cras/in/purus/eu/magna.jpg|nisi volutpat eleifend donec ut dolor morbi vel|ac lobortis vel dapibus at|2
+Riffwire|2|El Salitre|Never|http://technorati.com/vestibulum/ante/ipsum.js|mi integer ac neque duis bibendum morbi non|etiam pretium iaculis justo in hac|2
+Twimbo|2|Tame|Yearly|https://bloomberg.com/ante/vestibulum/ante/ipsum.xml|elit proin risus praesent lectus|quam turpis adipiscing lorem vitae mattis|4
+Tagchat|2|Salon-de-Provence|Once|http://hostgator.com/quam/pede/lobortis/ligula/sit/amet/eleifend.json|rhoncus aliquam lacus morbi quis|urna pretium nisl ut volutpat sapien arcu sed|1
+Trilia|2|Yaojiaji|Seldom|http://blogs.com/nullam/orci/pede/venenatis/non.jpg|rutrum neque aenean auctor gravida sem praesent|dapibus nulla suscipit ligula in lacus curabitur|5
+Flipbug|2|Camden|Seldom|http://sourceforge.net/nibh/quisque/id/justo.png|habitasse platea dictumst etiam faucibus cursus urna ut|posuere felis sed lacus morbi sem mauris laoreet|3
+Meemm|2|Jiahe|Monthly|https://tmall.com/ut/tellus/nulla.json|ut tellus nulla ut erat id|nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue|3
+Zoozzy|2|Sukarara Utara|Yearly|http://tmall.com/a/libero/nam/dui/proin/leo/odio.aspx|libero quis orci nullam molestie|interdum in ante vestibulum ante ipsum primis in faucibus orci|3
+Thoughtbridge|2|Jajarkrajan|Once|http://twitter.com/et/ultrices/posuere.png|lectus pellentesque at nulla suspendisse potenti cras|neque libero convallis eget eleifend luctus ultricies eu nibh|5
+Youspan|2|Koblain|Monthly|https://simplemachines.org/a/ipsum/integer/a/nibh/in.json|turpis eget elit sodales scelerisque mauris sit amet|amet eleifend pede libero quis orci|2
+Agivu|2|Kostyantynivka|Seldom|https://163.com/rhoncus/sed/vestibulum/sit/amet/cursus.jpg|quam suspendisse potenti nullam porttitor lacus at turpis donec posuere|orci luctus et ultrices posuere cubilia curae nulla|1
+Feedfire|2|Manouba|Yearly|http://msu.edu/morbi/ut.json|fringilla rhoncus mauris enim leo rhoncus|at velit eu est congue elementum|5
+Skyndu|2|Tomislavgrad|Seldom|https://nhs.uk/ut/at.jsp|mi nulla ac enim in tempor turpis nec|vestibulum proin eu mi nulla|3
